@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Aaron Train
+tagline:          Mozilla QA Engineer
+url:              http://aaronmt.com
+author:
+  name:           Aaron Train
+  email:          atrain@mozilla.com
+  url:            http://aaronmt.com
+  github:         https://github.com/aaronmt
+  twitter:        http://twitter.com/aaronmt
+  googleplus:     https://plus.google.com/+AaronTrain/
+  irc:            irc://irc.mozilla.org/QA
+
+
+paginate:         1
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/aaronmt/
+

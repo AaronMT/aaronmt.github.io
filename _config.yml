@@ -8,6 +8,7 @@ permalink:        pretty
 # Setup
 title:            Aaron Train
 tagline:          Mozilla QA Engineer
+description:      Sr. QA Engineer at Mozilla
 url:              http://aaronmt.com
 author:
   name:           Aaron Train
@@ -18,7 +19,6 @@ author:
   googleplus:     https://plus.google.com/+AaronTrain/
   irc:            irc://irc.mozilla.org/QA
 
-
 paginate:         1
 
 # Custom vars
@@ -26,4 +26,3 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/aaronmt/
-

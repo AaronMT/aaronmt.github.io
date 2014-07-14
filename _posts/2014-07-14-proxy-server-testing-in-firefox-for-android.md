@@ -22,6 +22,6 @@ How to Help
 [2]: https://github.com/Ackar
 [3]: https://github.com/snorp
 [4]: https://wiki.mozilla.org/Mobile/Janus
-[5]: https://github.com/mozilla/janus-addon/raw/master/janus.xpi
+[5]: https://addons.mozilla.org/en-US/android/addon/janus-proxy-configurator/
 [6]: https://github.com/mozilla/node-janus/issues
 [7]: irc://irc.mozilla.org/mobile

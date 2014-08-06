@@ -26,3 +26,9 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/aaronmt/
+
+# Analytics
+analytics:
+  provider:       google
+  google:
+    tracking_id: 'UA-53554008-1'

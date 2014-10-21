@@ -15,7 +15,7 @@ This should correct a number of playback issues which have been reported to us r
 How to Help
 -------------
 
-* Install [Nightly][4]
+* Install [Nightly][4] (available on 10/21/2014's build)
 * Test video playback on your Android 4.1+ device (e.g, [test page][6])
 * Talk to us on [IRC][7] about your experience or problems
 

@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 
-[James 'snorp' Willcox][1] has [landed support][2] for software & hardware decoding via the [MediaCodec][3] Java API in [Nightly][4] for Android for devices running Android 4.1+ (Jellybean). This is replacing OMXCodec & the Stagefright library which was introduced as a replacement for OpenCore for media decoding. This relatively new public Java class is used for decoding H.264/AAC in MP4 for playback in the browser with the benefit of allowing for direct access to the media codecs on the device through a "raw" interface. 
+[James 'snorp' Willcox][1] has [landed support][2] for hardware decoding via the public [MediaCodec][3] Java class in [Nightly][4] for Android for devices running Android 4.1+ (Jellybean). This is replacing OMXCodec & the Stagefright library which was introduced as a replacement for OpenCore for media decoding. This relatively new public Java class is used for decoding H.264/AAC in MP4 for playback in the browser with the benefit of allowing for direct access to the media codecs on the device through a "raw" interface. 
 
 This should correct a number of playback issues which have been reported to us regarding problems on Android 4.1+ devices.
 
